@@ -1,0 +1,47 @@
+#back {
+    background-color: #232323;
+ }
+
+#navigation {
+    background-color: #232323;
+    height: 50px;
+    width: auto;
+    color: white;
+    font-family: montserrat;
+}
+.main {
+    font-family: montserrat;
+    background-color: #232323;
+    width: 200px;
+    margin: 0px;
+    height: 50px;
+    color: white;
+}
+
+.move {
+    background-color: #232323;
+    margin: 50px;
+    padding: 50px;
+}
+
+
+.capacentro {
+    position: relative;
+    top: -46px;
+    left: 400px;
+    background-color: #232323;
+    width: 200px;
+    height: 50px;
+    color: white;
+    font-family: montserrat;
+}
+
+.rightmargin {
+    font-family: montserrat;
+    background-color: #232323;
+    width: 200px;
+    margin: 200px;
+    height: auto;
+    color: white;
+
+}
